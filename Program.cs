@@ -19,6 +19,7 @@ while (number != 0)
     count++;
 }
 Console.Write ($"number of digits in a number:  {count}");
+// количество цифр в числе:
 }
 else
 {
